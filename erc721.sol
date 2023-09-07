@@ -26,3 +26,4 @@ contract MyNFTToken is ERC721URIStorage, Ownable {
         return newItemId;
     }
 }
+//0xfB70B8e366D7C0a374bC3c410f0c0F3423f72619 goku
